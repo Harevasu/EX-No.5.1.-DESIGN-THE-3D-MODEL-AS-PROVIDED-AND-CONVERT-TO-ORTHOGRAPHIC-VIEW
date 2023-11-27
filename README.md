@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![ex5 1](https://github.com/Harevasu/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147985044/9023b0d6-9ee9-4cd3-809b-f2a31b2c8b27)
+
+![ex5 1](https://github.com/Harevasu/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147985044/563607a1-84e4-40c8-a3af-d9c62aa6a9a5)
 
 
 ## RESULT:
